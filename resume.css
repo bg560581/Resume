@@ -1,6 +1,7 @@
 * {font-family: serif;
     font-size: 10px;
     color: #006699;
+    background-color: #FFE3B8 
     
 }
 
@@ -24,16 +25,38 @@ h6 {font-size: 1.75em;
     color: #003399
 }
 
-p {font-size: 1.6em;
-    color: #009900
+/*⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄classes & ID's\\\\\\\\\\\\\\\\\*/
+
+.title {font-size: 1.6em;
+    color: #009900;
+    text-decoration: underline;
+}
+.act {text-align: center}
+
+.hand {padding-left: 35px;
+       color: #006200}
+
+.school {float: right;
+        padding:5px;
+    font-size: .75em
 }
 
+.work {float: right;
+    color: #001A34
+        }
+
+.cham-extra {color: #006200}
+
+#work-exp {color: #001A34}
+
+/*------------------------------------------------*/
+
+span {display: block;
+font-size: 1em}
 
 li {font-size: 2em}
 
 div {font-size: 1.5em}
 
 header, h5, h6, h3, h4 {text-align: center}
-
-/*⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄classes\\\\\\\\\\\\\\\\\\\\*/
 
