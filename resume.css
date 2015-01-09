@@ -29,6 +29,17 @@ h6 {font-size: 1.75em;
 
 /*⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄classes & ID's\\\\\\\\\\\\\\\\\*/
 
+.contact {list-style: none;
+            text-align: center;
+}
+
+u {font-size: inherit;
+    margin-right: -0.1px}
+
+#info {padding-bottom: 10px;
+    margin-bottom: -15px;
+}
+
 .title {font-size: 1.6em;
     color: #009900;
     text-decoration: underline;
